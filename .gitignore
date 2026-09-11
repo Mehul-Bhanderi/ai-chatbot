@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Logs / OS cruft
+*.log
+npm-debug.log*
+.DS_Store
